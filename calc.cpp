@@ -2,6 +2,7 @@
 using namespace std;
 void main()         //program execution start from here
 {
+  cout<<"HELLO WORLD!!!";
 cout<<"program for calculator "<<endl;
 int a,b,c,ans;
 cout<<"1)addition"<<endl;
